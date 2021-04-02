@@ -20,7 +20,7 @@ async def start(c, m):
     await c.send_message(chat_id=m.chat.id,
                          text=Translation.START.format(m.from_user.first_name, Config.USER_NAME),
                          reply_to_message_id=m.message_id,
-                         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("⭕ Channel ⭕", url=My Father 👨‍💻), InlineKeyboardButton("🛑 Support 🛑 ", url=support)]]))
+                         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("⭕ Channel ⭕", url=my_father), InlineKeyboardButton("🛑 Support 🛑 ", url=support)]]))
     logger.info(f"{m.from_user.first_name} used start command")
 
 
