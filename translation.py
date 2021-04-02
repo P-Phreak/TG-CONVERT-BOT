@@ -34,7 +34,7 @@ I am a Video/Fiel Converter pro bot with custom thumbnail support💯.
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** [PRÉDÀTØR](https://t.me/PredatorHackerzZ_bot)
+**👨‍💻 Developer:** [PRÉDÀTØR](https://t.me/TeleRoidGroup)
 
 **📮 Channel:** [TeleRoid UPDATES](https://t.me/TeleRoidGroup)
 
