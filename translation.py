@@ -5,9 +5,11 @@ class Translation(object):
 
       START = """Hello {0}
 
-I am a converter clone of [Convert Bot](https://telegram.dog/teleroid_converter_bot) by {1}
+I am a converter bot clone of [Convert Bot](https://telegram.dog/teleroid_converter_bot) by {1}
+ 
+For more /help and /about
 
-I am a Video/Fiel Converter pro bot with custom thumbnail support💯.
+I am a Video/File Converter pro bot with custom thumbnail support💯.
 """
 
 
@@ -34,7 +36,7 @@ I am a Video/Fiel Converter pro bot with custom thumbnail support💯.
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** [PRÉDÀTØR](https://t.me/TeleRoidGroup)
+**👨‍💻 Developer:** [PRÉDÀTØR](https://t.me/PredatorHackerzZ_bot)
 
 **📮 Channel:** [TeleRoid UPDATES](https://t.me/TeleRoidGroup)
 
