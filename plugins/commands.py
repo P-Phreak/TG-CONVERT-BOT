@@ -11,7 +11,7 @@ from Tools.Download import download
 
 
 
-my_father = "https://t.me/{}".format(Config.USER_NAME[1:])
+my_father = "https://t.me/{TeleRoidGroup}".
 support = "https://telegram.dog/TeleRoid14"
 
 @Client.on_message(Filters.command(["start"]))
